@@ -1,0 +1,15 @@
+GetFirstEventIntent Let's do {Destination}
+GetFirstEventIntent start {Destination} workout
+GetFirstEventIntent {Destination} workout
+GetFirstEventIntent {Destination}
+
+GetNextEventIntent {Destination}
+GetNextEventIntent Let's do {Destination}
+GetNextEventIntent start {Destination} workout
+GetNextEventIntent {Destination} workout
+
+AMAZON.StopIntent no
+AMAZON.StopIntent nope
+AMAZON.StopIntent no thanks
+AMAZON.StopIntent no thank you
+AMAZON.StopIntent stop

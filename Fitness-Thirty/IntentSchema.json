@@ -1,0 +1,31 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Destination",
+          "type": "LIST_OF_DESTINATIONS"
+        }
+      ],
+      "intent": "GetFirstEventIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "Destination",
+          "type": "LIST_OF_DESTINATIONS"
+        }
+      ],
+      "intent": "GetNextEventIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

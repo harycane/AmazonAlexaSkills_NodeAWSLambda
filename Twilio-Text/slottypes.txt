@@ -1,0 +1,2 @@
+LIST_OF_DESTINATIONS: myself
+LIST_TEXT: Believe in yourself.

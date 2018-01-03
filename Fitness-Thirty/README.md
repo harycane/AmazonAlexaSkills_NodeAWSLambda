@@ -1,0 +1,2 @@
+# Fitness-Thirty
+Published 'fitness-thirty' HIIT Alexa Skill in Amazon Skill store, accepting either chest, cardio, abs or yoga as a voice command based on which user is instructed an exercise over 25 reps countdown followed by 5 seconds’ rest. Implemented a two-shot conversational experience allowing users to continue voicing either of the 4 workout types as commands until Amazon's Help, Stop or Cancel Intents implementations are invoked.
