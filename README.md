@@ -1,0 +1,2 @@
+# AmazonAlexaSkills_NodeAWSLambda
+Published 'fitness-thirty' Alexa Skill, instructing exercise based on chest, cardio, abs or yoga with rest time using a two-shot conversational experience allowing users to continue until Help/Stop/Cancel intent is invoked. Developed 'twitter-trends' Alexa Skill that uses Twitter API &amp; Yahoo's WOEID to fetch top 10 trending. Developed 'twilio-text' Alexa Skill that uses Twilio API to send a custom text to predefined contacts from a Twilio number.
